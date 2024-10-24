@@ -17,167 +17,167 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Projeto_Casa_Criancas
 build_property.RootNamespace = Projeto_Casa_Criancas
-build_property.ProjectDir = C:\Users\eduga\OneDrive\Documentos\GitHub\Projeto_Casa_Criancas\
+build_property.ProjectDir = C:\Users\Mirelle Eduarda\OneDrive\Documentos\Orientacao-a-Objeto\Projeto-Casa-das-Criancas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\eduga\OneDrive\Documentos\GitHub\Projeto_Casa_Criancas
+build_property.MSBuildProjectDirectory = C:\Users\Mirelle Eduarda\OneDrive\Documentos\Orientacao-a-Objeto\Projeto-Casa-das-Criancas
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Alunos/Create.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Alunos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Alunos/Delete.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Alunos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Alunos/Details.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Alunos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Alunos/Edit.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Alunos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Alunos/Index.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Alunos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/AssistenteSociais/Create.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/AssistenteSociais/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaXN0ZW50ZVNvY2lhaXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/AssistenteSociais/Delete.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/AssistenteSociais/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaXN0ZW50ZVNvY2lhaXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/AssistenteSociais/Details.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/AssistenteSociais/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaXN0ZW50ZVNvY2lhaXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/AssistenteSociais/Edit.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/AssistenteSociais/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaXN0ZW50ZVNvY2lhaXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/AssistenteSociais/Index.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/AssistenteSociais/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaXN0ZW50ZVNvY2lhaXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Chamadas/Create.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Chamadas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbWFkYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Chamadas/Delete.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Chamadas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbWFkYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Chamadas/Details.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Chamadas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbWFkYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Chamadas/Edit.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Chamadas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbWFkYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Chamadas/Index.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Chamadas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbWFkYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Colaboradores/Create.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Colaboradores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3Jlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Colaboradores/Delete.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Colaboradores/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3Jlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Colaboradores/Details.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Colaboradores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3Jlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Colaboradores/Edit.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Colaboradores/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3Jlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Colaboradores/Index.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Colaboradores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3Jlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Cursos/Create.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Cursos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Cursos/Delete.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Cursos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Cursos/Details.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Cursos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Cursos/Edit.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Cursos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Cursos/Index.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Cursos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Home/Index.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Home/Privacy.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Matriculas/Create.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Matriculas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Matriculas/Delete.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Matriculas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Matriculas/Details.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Matriculas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Matriculas/Edit.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Matriculas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Matriculas/Index.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Matriculas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Shared/Error.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/_ViewImports.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/_ViewStart.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduga/OneDrive/Documentos/GitHub/Projeto_Casa_Criancas/Views/Shared/_Layout.cshtml]
+[C:/Users/Mirelle Eduarda/OneDrive/Documentos/Orientacao-a-Objeto/Projeto-Casa-das-Criancas/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dfwm5l09fv
